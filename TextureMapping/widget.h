@@ -2,7 +2,6 @@
 #define WIDGET_H
 
 #include <QWidget>
-
 #include <QtOpenGL>
 
 class Widget : public QOpenGLWidget, protected QOpenGLFunctions
